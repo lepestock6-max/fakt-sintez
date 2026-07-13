@@ -11,6 +11,18 @@ Set-ExecutionPolicy RemoteSigned -Scope Process
 ```
 
 ```
+pip install telebot
+```
+
+```
+pip install pyttsx3
+```
+
+```
+pip install requests
+```
+
+```
 .\venv\Scripts\Activate.ps1
 ```
 #Доступные команды
