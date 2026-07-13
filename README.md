@@ -9,6 +9,10 @@ py -m venv ven
 ```
 Set-ExecutionPolicy RemoteSigned -Scope Process
 ```
+```
+.\venv\Scripts\Activate.ps1
+```
+
 
 ```
 pip install telebot
@@ -22,9 +26,7 @@ pip install pyttsx3
 pip install requests
 ```
 
-```
-.\venv\Scripts\Activate.ps1
-```
+
 #Доступные команды
 
 ```
